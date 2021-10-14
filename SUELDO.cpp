@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	const double IRPF=0.18 , CC= 69.97, FD=24.56,hipoteca=450,luz=65,agua=20,tlf_int=54 , gas=120 , comida=200 , ocio=180 , tabaco=60,g_com=31.84;
 	double salario_bruto,retencion , s_neto_menos_gastos,suma_gastos ,paga_mensual ,cuota_empresario=511.35 , cuota_empleado; // error ;
-	double sueldo_neto;
+	double sueldo_neto, hola ;
 
 		cout<<"introduzca Paga mensual ";
 		cin>>paga_mensual;
